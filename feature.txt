@@ -1,3 +1,6 @@
 master branch changes:
 1. Hi Commit from "master"
 2. Hi another commit from "master"
+
+feature_b branch changes:
+1. Hi Commit from "feature_b"
