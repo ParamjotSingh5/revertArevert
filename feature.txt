@@ -4,3 +4,4 @@ master branch changes:
 
 feature_b branch changes:
 1. Hi Commit from "feature_b"
+2. Hi another commit from "feature_b"
