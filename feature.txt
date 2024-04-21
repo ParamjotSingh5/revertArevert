@@ -1,7 +1,7 @@
 master branch changes:
 1. Hi Commit from "master"
 2. Hi another commit from "master"
-
+3. Hi another commit from "master"
 
 
 
